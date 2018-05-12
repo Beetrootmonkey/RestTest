@@ -1,9 +1,5 @@
 package com.beetrootmonkey.resttest.hello;
 
-/**
- *
- * @author Beetrootmonkey
- */
 public class Greeting {
 
     private final long id;
